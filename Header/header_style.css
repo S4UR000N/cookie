@@ -1,0 +1,21 @@
+#tape {
+ background-color: #0039e6;
+ border-bottom: 2px solid grey;
+ }
+
+#tape_data {
+ 
+ }
+
+.b {
+ color: white;
+ font-size: 20px;
+
+ padding: 15px;
+ margin: 8px 4px 8px 0;
+
+ border: none;
+ border-radius: 5px;
+
+ background-color: #00aaff;
+ }

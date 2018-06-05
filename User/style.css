@@ -1,0 +1,125 @@
+body{
+  font-size: 120%;
+  background: #F8F8FF;
+}
+.header{
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+/* Error Field */
+.Error{
+  width: 92%;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid #a94442;
+  color: #a94442;
+  background: #f2dede;
+  border-radius: 5px;
+  text-align: left;
+}
+/* Input Field */
+#l-input-group{
+  display: block;
+  text-align: left;
+  margin: 10px 0px 10px 0px;
+  font-size: 18px;
+}
+/* Sign Up */
+#SignUpForm{
+  width: 30%;
+  height: auto;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+#SU_Name{
+  margin: 0px;
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+#SU_Email{
+  margin: 0px;
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+#SU_Password{
+  margin: 0px;
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+#SU_Confirm_Password{
+  margin: 0px;
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+#SU_Button{
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #5F9EA0;
+  border: none;
+  border-radius: 5px;
+}
+/* Sign In */
+#SignInForm{
+  width: 30%;
+  height: 320px;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+#SI_Name{
+  margin: 0px;
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+#SI_Email{
+  margin: 0px;
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+#SI_Password{
+  margin: 0px;
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+#SI_Button{
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #5F9EA0;
+  border: none;
+  border-radius: 5px;
+}

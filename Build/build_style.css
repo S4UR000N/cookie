@@ -1,0 +1,32 @@
+/* Style the dots */
+.dot {
+ cursor:pointer;
+ height: 25px;
+ width: 25px;
+ margin: 0 2px;
+ background-color: #bbb;
+ border-radius: 50%;
+ display: inline-block;
+ transition: background-color 0.6s ease;
+ }
+
+/* control BS 4 popover window show up */
+.popover-header {}
+
+/* Style the active class (and buttons on mouse-over) */
+.active, .dot:hover {
+ background-color: #666;
+ }
+
+/* Style the popover's header buttons */
+.poH {
+ color: white;
+
+ border: 1px solid grey;
+ border-radius: 50%;
+
+ background-color: #cccccc;
+ }
+.poH.active {
+ background-color: red;
+ }
